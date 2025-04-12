@@ -1,0 +1,2 @@
+This project allows you to add new events or remove existing ones. The events are stored in a separate text file, ensuring data persistence across sessions. 
+Each event includes details such as the year, month, day, hour, title, and description.
